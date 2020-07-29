@@ -2,6 +2,8 @@ apiVersion: image.openshift.io/v1
 kind: ImageStream
 metadata:
   name: jenkins-agent-conftest
+  labels:
+    role: jenkins-slave
 spec: {}
 ---
 apiVersion: build.openshift.io/v1
