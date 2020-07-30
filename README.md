@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)]()
+![Generate README.html](https://github.com/garethahealy/rego-blog/workflows/Generate%20README.html/badge.svg)
 
 # Automate your security practices and policies on OpenShift with Open Policy Agent (OPA)
 This blog post aims to explain the basics around OPA and how the Red Hat [Containers Community of Practice](https://github.com/redhat-cop) (CoP)
